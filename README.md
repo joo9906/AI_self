@@ -1,7 +1,7 @@
 # 🏥 RAG 기반 환자 요약 및 투약 제안 챗봇
 
 ## 프로젝트 시연 영상
-<video src="https://github.com/joo9906/AI_self/raw/main/MedAIcine.mp4" controls width="600"></video>
+[![MedAIcine.mp4](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/joo9906/AI_self/blob/main/MedAIcine.mp4)
 
 ## 💡 프로젝트 소개
 서울 8팀의 챗봇은 의료인을 위한 **약물 투약 제안 AI 챗봇** 입니다.
