@@ -43,8 +43,8 @@
 
 ```bash
 # 1. 레포 클론
-git clone https://github.com/your-org/your-repo.git
-cd your-repo
+git clone https://github.com/joo9906/AI_self.git
+cd AI_self
 
 # 2. 의존성 설치
 pip install -r requirements.txt
