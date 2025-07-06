@@ -3,6 +3,7 @@
 ## 프로젝트 시연 영상
 
 [![MedAIcine.mp4](https://github.com/joo9906/AI_self/blob/main/MediAIcine.png)](https://github.com/joo9906/AI_self/blob/main/MedAIcine.mp4)
+이미지를 클릭하면 영상을 다운로드 받아 재생할 수 있습니다.
 
 ## 💡 프로젝트 소개
 
