@@ -1,0 +1,25 @@
+version: 1
+backend:
+  phases:
+    build:
+      commands: []
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - cd Front
+        - npm install
+    build:
+      commands:
+        - npm run build
+  artifacts:
+    baseDirectory: Front/dist
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - Front/node_modules/**/*
+  
+build:
+  environment:
+    NODE_VERSION: 20

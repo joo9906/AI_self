@@ -14,7 +14,7 @@
 임베딩 모델, 벡터 스토어, LLM을 결합하여 정확하고 신뢰성 있는 응답을 제공합니다.
 
 프론트엔드 서버는 AWS의 Amplify로 배포하였습니다.
-백엔드 서버는 fly.io로 배포하였습니다.
+백엔드 서버는 EC2로 배포하였습니다.
 
 
 ## 🚀 사용법
@@ -31,7 +31,6 @@
 ## 🌐 배포된 링크
 
 - **웹 데모 링크**: [바로가기](https://main.d2pi120e4ybq0g.amplifyapp.com)
-- **API 문서**: [API Docs](https://your-api-doc-link.com)
 
 ---
 
